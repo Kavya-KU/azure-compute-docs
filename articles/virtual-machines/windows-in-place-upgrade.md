@@ -8,7 +8,7 @@ ms.custom: devx-track-azurepowershell
 ms.date: 03/12/2025
 ms.author: jushiman
 ---
-
+t
 # In-place upgrade for VMs running Windows Server in Azure
 
 An in-place upgrade allows you to go from an older operating system to a newer one while keeping your settings, server roles, and data intact. This article teaches you how to move your Azure VMs to a later version of Windows Server using an in-place upgrade. Currently, upgrading to Windows Server 2012, Windows Server 2016, Windows Server 2019, and Windows Server 2022 are supported.
